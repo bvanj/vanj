@@ -1,0 +1,107 @@
+.center{
+
+  text-align:center !important;
+
+}
+
+.title{
+
+  height:18px;
+
+  background-color:#000000;
+
+  border:2px solid #000000;
+
+  color:#ffffff;
+
+  position:relative;
+
+  top:-10px;
+
+}
+
+.title2{
+
+  height:1px;
+
+  background-color:#000000;
+
+  border:2px solid #000000;
+
+  color:#ffffff;
+
+  position:relative;
+
+  top:-10px;
+
+}
+
+.header, .body{
+
+  border:2px solid #000000;
+
+}
+
+.tbl{
+
+  width:150px;
+
+}
+
+.list{
+
+  width:300px;
+
+}
+
+.table{
+
+  position:relative;
+
+  top:-20px;
+
+  margin-bottom:-20px;
+
+}
+
+table,th,td
+
+{
+
+  border:1px solid #000000;
+
+  font-size:12px;
+
+}
+
+.continue{
+
+  background-color:#e0e0e0;
+
+}
+
+.question{
+
+  background-color:#e0e0e0;
+
+  width:500px;
+
+}
+
+.answer{
+
+  width:100px;
+
+}
+
+.passportPic{
+
+  height:180px;
+
+}
+
+.auth{
+
+  background-color:#e0e0e0;
+
+}
